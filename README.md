@@ -1,0 +1,1 @@
+This repository contains a presentation that explores an A/B test to assess the impact of changing the layout of the media rail on a product page from horizontal to vertical. The goal is to evaluate whether this change improves user engagement and conversion rates on the cooking website's product page.
